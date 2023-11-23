@@ -193,4 +193,4 @@ Od každé položky máte dostupný jeden kus.
 - Tlačítka
 - Svorkovnice
 - PCB deska (pokud se rozhodnete odevzdat řešení jinak než na breadboardu)
-- Li-Poly baterie (máme celkem 2 kusy, tak si ji vemte pouze pokud máte dobrý případ užití)
+- Li-Poly baterie (máme celkem 2 kusy, tak si ji vezměte pouze pokud máte dobrý případ užití)
